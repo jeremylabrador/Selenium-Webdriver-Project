@@ -23,5 +23,5 @@ $ pytest -s -v test_shopping_cart.py
 
 #### To run all tests at once, in a shell from the tests folder:
 ```
-pytest -s -v
+$ pytest -s -v
 ```
