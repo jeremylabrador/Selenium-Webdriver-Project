@@ -14,7 +14,7 @@ This Selenium Webdriver Project tests an e-commerce website: http://automationpr
 2) Product Detail Page
 3) Shopping Cart
 
-#### To run one test at a time, from the command-line, go to the tests folder and run:
+#### To run one test at a time, from the command-line, go to the tests folder and run any of these commands:
 ```
 $ pytest -s -v test_login.py
 $ pytest -s -v test_product_detail_page.py
