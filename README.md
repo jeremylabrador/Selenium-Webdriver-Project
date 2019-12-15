@@ -25,3 +25,8 @@ $ pytest -s -v test_shopping_cart.py
 ```
 $ pytest -s -v
 ```
+
+#### To run any test using Firefox, use the --browser command line option:
+```
+$ pytest -s -v test_login.py --browser firefox
+```
