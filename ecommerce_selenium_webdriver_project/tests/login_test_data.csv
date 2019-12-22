@@ -1,0 +1,6 @@
+email,password,email_error_message,password_error_message
+tester123@gmail.com,invalid,,Authentication failed.
+invalid@gmail.com,123456,Authentication failed.,
+tester123@gmail.com,,,Password is required.
+,,An email address required.,
+,123456,An email address required.,
